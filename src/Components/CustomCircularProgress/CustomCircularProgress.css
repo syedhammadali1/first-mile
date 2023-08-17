@@ -1,0 +1,19 @@
+.circular-progress-style {
+    height: 100px !important;
+    width: 100px !important;
+}
+
+.MuiCircularProgress-colorPrimary {
+    color: #FFA337 !important;
+}
+
+.circular-text {
+    font-family: 'Roboto';
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 19px !important;
+    letter-spacing: 0em !important;
+    text-align: center !important;
+    color: #FFA337 !important;
+
+}

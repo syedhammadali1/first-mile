@@ -1,0 +1,11 @@
+.w-max-content {
+    width: max-content !important;
+}
+
+.contract-card-text {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    letter-spacing: 0em !important;
+
+}

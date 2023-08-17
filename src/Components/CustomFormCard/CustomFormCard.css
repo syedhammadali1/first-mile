@@ -1,0 +1,43 @@
+.form-card-a {
+    width: 279.75px;
+    /* height: 572px; */
+    border-radius: 10px;
+    border: 1px solid #0000001F;
+}
+
+.form-card-title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left !important;
+    color: #424242;
+
+}
+
+.form-card-b {
+    width: 279px;
+    height: 175px;
+    border-radius: 10px;
+    border: 1px solid #0000001F;
+
+}
+
+.form-card-a-2{
+    width: 342px;
+    /* height: 572px; */
+    border-radius: 10px;
+    border: 1px solid #0000001F;
+} 
+
+.bg-lightGrey{
+    background-color: #E8E8E8;
+}
+
+.h-570{
+    height: 570px;
+}
+.mt-300{
+    margin-top: 300px;
+}

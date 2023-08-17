@@ -1,0 +1,61 @@
+.p-0 {
+    padding: '0px' !important;
+}
+
+.drawer {
+
+    position: fixed;
+    top: 0;
+    right: 0px;
+    /* Start from the right side and hide the div initially */
+    width: 300px;
+    height: 100%;
+    background-color: white;
+    border-left: 1px solid #ccc;
+    padding: 16px;
+    transition: right 0.3s ease-in-out;
+    /* Apply a smooth transition */
+    display: none;
+
+    overflow: auto;
+}
+
+
+.drawer::-webkit-scrollbar {
+    width: 8px;
+    /* Set the desired width of the scrollbar */
+}
+
+.drawer::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+    /* Set the background color of the scrollbar track */
+}
+
+.drawer::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 10px;
+
+    /* Set the color of the scrollbar thumb */
+}
+
+
+
+
+.data-grid {
+    flex: 1;
+    /* Let the DataGrid take the available width */
+    transition: flex 0.3s ease-in-out;
+    /* Apply a smooth transition */
+}
+
+
+
+.drawer-title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}

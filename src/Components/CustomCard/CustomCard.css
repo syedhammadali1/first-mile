@@ -1,0 +1,366 @@
+.card-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    line-height: 12px;
+    color: #000000;
+
+}
+
+
+
+.card-footer-text {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    color: #00000099;
+
+}
+
+.icon-btn {
+    width: '22px' !important;
+    height: '22px' !important;
+    color: #000000 !important;
+    font-size: 2rem !important;
+    cursor: pointer;
+
+
+
+}
+
+.small-card {
+    width: 214px !important;
+    border-radius: 10px !important;
+    box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.small-card .avatar {
+    height: 4rem !important;
+    width: 4rem !important;
+}
+
+.small-card .icon {
+    width: 20px;
+    height: 20px;
+    color: rgba(255, 255, 255, 0.87);
+}
+
+.small-card .rating {
+    height: 18px !important;
+}
+
+.small-card .card-text {
+    font-family: 'Roboto';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+}
+
+
+
+.small-card .card-text-bold {
+    font-family: 'Roboto';
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 0em;
+}
+
+.small-card .footer {
+    width: '195px';
+    margin-top: 10px;
+}
+
+.small-card .card-footer-text {
+    font-family: 'Inter';
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0em;
+    color: rgba(107, 114, 128, 1);
+
+}
+
+.small-card .create-icon{
+    display: none;
+}
+/*  */
+
+.large-card {
+    width: 307px !important;
+    border-radius: 10px !important;
+    box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.large-card .avatar {
+    height: 5.6rem !important;
+    width: 5.6rem !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.large-card .icon {
+    width: 30px;
+    height: 30px;
+    color: #000000DE;
+
+}
+
+.large-card .rating {
+    height: 18px !important;
+    margin-bottom: 3px;
+}
+
+.large-card .card-text {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+}
+
+
+
+.large-card .card-text-bold {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+}
+
+.large-card .footer {
+    width: '195px';
+    margin-top: 10px;
+}
+
+.large-card .card-footer-text {
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    color: rgba(107, 114, 128, 1);
+
+}
+
+.large-card .create-icon{
+    /* display: none; */
+}
+
+
+/*  */
+
+.paymentDetailCard {
+    height: 6rem;
+    width: 13.25rem;
+    border-radius: 15px !important;
+    box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.3) !important;
+
+}
+
+.paymentDetailCard .avatar{
+    height: 2.5rem;
+    width: 2.5rem;
+    
+}
+
+.paymentDetailCard .card-text {
+    font-family: 'Roboto';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    padding-bottom: 1px;
+}
+
+.paymentDetailCard .card-text-bold {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0em;    
+    color: #FFFFFF;
+    padding-bottom: 1px;
+
+
+}
+
+.paymentDetailCard .icon {
+    width: 20px;
+    height: 20px;
+    color: rgba(255, 255, 255, 0.87);
+}
+
+.paymentDetailCard .card-footer-text {
+    font-family: 'Roboto';
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+.paymentDetailCard .create-icon{
+    display: none;
+}
+
+/*  */
+
+.paymentDetailLargeCard {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 15px !important;
+    box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.3) !important;
+
+}
+
+.paymentDetailLargeCard .avatar{
+    height:5.6rem;
+    width: 5.6rem;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    
+}
+
+.paymentDetailLargeCard .card-text {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    color: #000000DE;
+
+    padding-bottom: 1px;
+}
+
+.paymentDetailLargeCard .card-text-bold {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;    
+    color: #000000DE;
+    ;
+    padding-bottom: 1px;
+
+
+}
+
+.paymentDetailLargeCard .icon {
+    width: 1.8rem;
+    height: 1.8rem;
+    color: #000000DE;
+    
+}
+
+.paymentDetailLargeCard .card-footer-text {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0em;
+    color: #00000099;
+    
+}
+
+/* .paymentDetailLargeCard .create-icon{
+    display: none;  
+} */
+.paymentDetailLargeCard .footer{
+margin-bottom: 8px;
+}
+.paymentDetailLargeCard .card-content{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between
+}
+
+
+
+/*  */
+
+
+
+.card-text-green{
+    color: #2E7D32;
+}
+
+.custom-brown-color{
+    color: #00000099;
+}
+
+.small-card .card-title{   
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+/* small ae card */
+.small-ae-card{
+    width: 200px;
+    height: 200px;
+}
+
+.small-ae-card .avatar{
+    height: 3.7rem;
+    width: 3.7rem;
+    
+}
+
+.small-ae-card .card-text {
+    font-family: 'Roboto';
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: #000000DE;
+    padding-bottom: 1px;
+}
+
+.small-ae-card .card-text-bold {
+    font-family: 'Roboto';
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;    
+    color: #000000DE;
+    padding-bottom: 1px;
+
+
+}
+
+.small-ae-card .icon {
+    width: 20px;
+    height: 20px;
+    color:  #0000008F;
+}
+
+.small-ae-card .card-footer-text {
+    font-family: 'Roboto';
+    font-size: 8px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+}
+
+.clear-icon{
+    width: 24px;
+    height: 24px;
+    border-radius: 21px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 0px;
+    right: 2px;
+}

@@ -1,0 +1,137 @@
+.header-style {
+  margin-top: 10px;
+  border-top: 1px solid #0000001F;
+  border-bottom: 1px solid #0000001F;
+  height: 60px;
+  align-content: center;
+}
+
+.font-16px {
+  font-size: 16px !important;
+}
+
+.title-style {
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  letter-spacing: 0em !important;
+}
+
+.card-title {
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  line-height: 19px !important;
+  letter-spacing: 0em !important;
+}
+
+
+
+.card-border {
+  /* border: 1px solid #0000001F; */
+}
+.border-top-bottom{
+  border-top: 1px solid #0000001F;
+  border-bottom: 1px solid #0000001F;
+
+}
+.border-left-right-0{
+  border-left: none;
+  border-right: none;
+}
+
+.text-card-border{
+  border-top: 1px solid #0000001F;
+}
+
+.box-border{
+  border-top: 1px solid #0000001F;
+  border-bottom: 1px solid #0000001F;
+  border-left: 1px solid #0000001F;
+}
+
+
+
+.scroll-container {
+  /* width: 300px; Set the desired width */
+  height: 26.4rem;
+  /* Set the desired height */
+  overflow: hidden;
+  /* Hide the scrollbar */
+  position: relative;
+  /* Required for absolute positioning of the content */
+}
+
+.scroll-container .content {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  /* Enable scrolling when overflow occurs */
+}
+
+.scroll-container .content::-webkit-scrollbar {
+  width: 0;
+  /* Hide the default scrollbar on WebKit browsers */
+}
+
+.scroll-container .content {
+  scrollbar-width: none;
+  /* Hide the default scrollbar on Firefox */
+}
+
+/* If you want to style the scrollbar */
+.scroll-container .content::-webkit-scrollbar {
+  width: 0px;
+  /* Set the desired width of the scrollbar */
+}
+
+
+
+
+
+.juristic-contact-section .singleCard {
+  transition: transform 0.3s;
+}
+
+.juristic-contact-section .singleCard:hover {
+  transform: scale(1.009, 1.009) !important;
+}
+
+.juristic-contact-section .singleCard:hover .create-icon {
+  display: block;
+}
+
+
+
+.payment-detail-section .singleCard {
+  transition: transform 0.3s;
+}
+
+.payment-detail-section .singleCard:hover {
+  transform: scale(1.009, 1.009) !important;
+}
+
+.payment-detail-section .singleCard:hover .create-icon {
+  display: block;
+}
+
+
+.AE-section .singleCard {
+  transition: transform 0.3s;
+}
+
+.AE-section .singleCard:hover {
+  transform: scale(1.009, 1.009) !important;
+}
+
+.AE-section .singleCard:hover .create-icon {
+  display: block;
+}
+
+
+.second-title-bold-text {
+  font-family: 'Inter' !important;
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  line-height: 29px !important;
+  letter-spacing: 0em !important;
+}
